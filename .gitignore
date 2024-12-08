@@ -12,6 +12,7 @@ riderModule.iml
 
 # JetBrains IDE files
 .idea/
+*.idea/
 *.sln.iml
 *.DotSettings.user
 *.DotSettings
