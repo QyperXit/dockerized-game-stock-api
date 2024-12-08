@@ -4,7 +4,7 @@ This repository contains the backend for the Game Store application, built using
 
 ## Features
 
-- Built with .NET 7 Web API for modern backend development
+- Built with .NET 9 Web API for modern backend development
 - RESTful API design for smooth interaction with the frontend
 - SQLite integration for lightweight and portable database storage
 - Dockerized for easy deployment and scalability
