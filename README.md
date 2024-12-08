@@ -44,4 +44,4 @@ This repository contains the backend for the Game Store application, built using
 
    ```
 
-   The application will be accessible at [http://localhost:3000](http://localhost:5000).
+   The application will be accessible at [http://localhost:5000](http://localhost:5000).
